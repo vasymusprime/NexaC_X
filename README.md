@@ -1,4 +1,8 @@
 ⚡ Nexa Core X - Code Intelligence IDE & Hybrid Search Engine
+![Screenshot](screenshot.png)
+
+# NexaC_X
+Aici vine descrierea proiectului tău...
 
 Nexa Core X is a high-performance, local-first development environment designed as a zero-latency utility for analyzing, searching, editing, and spatially visualizing complex codebases. By merging the high-speed Nexa Search Engine with the advanced Spatial AST Mapping and Agent Visualizer Pro modules
 🚀 Key Architectural Features
