@@ -30,6 +30,8 @@ Nexa Search & Live Match Listing: Real-time asynchronous match visualization in 
 Multi-Tab Modular Environment: Every open code module hosts its own isolated tab panel (Live Editor, Spatial AST Map, and Agent Visualizer).
 
 3. Spatial AST Topology & Viewport Teleportation (Logic Mapping)
+4. ![Screenshot](Spatial_AST.png)
+
 
 Real-time AST Parsing: Automatically parses the Abstract Syntax Tree (ast) of Python files to map the logical structure of modules, classes, functions, and methods into interactive vector nodes.
 
